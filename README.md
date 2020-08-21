@@ -20,7 +20,17 @@ pip install robotframework-selenium2library
 *3 )*	Install Chrome Driver
 
 ```python
+---
+Install
+---
 Brew install chromedriver
+---
+
+---
+update
+---
+brew cask upgrade chromedriver
+---
 ```
 >>
 
